@@ -1,0 +1,53 @@
+#column1 {
+	position: absolute;
+	background: linear-gradient(45deg, #32e7ff, #4a2afc);
+	height: 300px;
+	width: 100px;
+	left: 50px;
+	bottom: 0px;
+}
+
+#column2 {
+	position: absolute;
+	background: linear-gradient(45deg, #ff3438, #fbff33);
+	height: 300px;
+	width: 100px;
+	left: 300px;
+	bottom: 0px;
+}
+
+#winnerblock{
+	position: absolute;
+	background: linear-gradient(45deg, #32e7ff, #4a2afc);
+	height: 100px;
+	width: 100px;
+	left: 50px;
+	top: 250px;
+	font-size: 30pt;
+	text-align: center;
+	display: none;
+}
+
+#winnerblock1{
+	position: absolute;
+	background: linear-gradient(45deg, #ff3438, #fbff33);
+	height: 100px;
+	width: 100px;
+	left: 300px;
+	top: 250px;
+	font-size: 30pt;
+	text-align: center;
+	display: none;
+}
+
+
+h1{
+	font-family: 'Pacifico', cursive;
+	text-shadow: 3px 4px 3px cyan;
+}
+
+body {
+	height: 100%;
+	background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+ 
